@@ -1,0 +1,10 @@
+{
+    "redirects": [
+      {
+        "source": "/qr",
+        "destination": "https://bilibili.com",
+        "statusCode": 302
+      }
+    ]
+  }
+  
